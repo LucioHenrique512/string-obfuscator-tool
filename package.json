@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "name": "sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
